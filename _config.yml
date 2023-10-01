@@ -1,8 +1,9 @@
 # Setup
 title:               The Return of the Rosy Reign
 tagline:             'The Most Important Warning You''ll Ever Read'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+description:         ''
+domain:              therosyreign.org    
+url:                 http://www.therosyreign.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,8 +11,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Dr. Alexis "Alex" Veritas
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               http://www.therosyreign.org
 
 # Gems
 plugins:
