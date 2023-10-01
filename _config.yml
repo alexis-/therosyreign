@@ -3,7 +3,7 @@ title:               The Return of the Rosy Reign
 tagline:             'The Most Important Warning You''ll Ever Read'
 description:         ''
 domain:              therosyreign.org    
-url:                 http://www.therosyreign.org
+url:                 http://therosyreign.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -11,7 +11,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Dr. Alexis "Alex" Veritas
-  url:               http://www.therosyreign.org
+  url:               http://therosyreign.org
 
 # Gems
 plugins:
